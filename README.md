@@ -1,6 +1,8 @@
 # BÀI TẬP LỚN MÔN HỌC MÁY (CO3117) - HK 241/261
 ## Đề tài: Ứng dụng SVM, Naive Bayes, Logistic Regression, và XGBoost vào bài toán phân loại review quần áo phụ nữ
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CQDdon/CO3117-Machine-Learning-BTL-261/blob/main/ML_BTL_Unified_Womens_Clothing_Reviews.ipynb)
+
 Trường Đại học Bách Khoa - ĐHQG TP.HCM  
 Khoa Khoa học và Kỹ thuật Máy tính  
 **GVHD:** Th.S Võ Thanh Hùng  
